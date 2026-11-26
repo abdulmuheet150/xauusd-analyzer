@@ -1,0 +1,6 @@
+{
+  "name": "XAUUSD Chart Analyzer",
+  "description": "Mobile-friendly XAUUSD trading chart analyzer using a strict 15m and 5m rule-based strategy checklist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
